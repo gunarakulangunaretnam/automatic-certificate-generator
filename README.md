@@ -24,10 +24,10 @@ python run.py
 My Social Links | Conduct Me 
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaratnam-161119156/)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/)
 * [Facebook Page](https://www.facebook.com/gunarakulan)
 * [Facebook Profile](https://www.facebook.com/kuna.rakulan)
 * [Twitter Profile](https://twitter.com/gunarakulang)
-* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaratnam/)
+* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
 * [English Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
 * [Tamil Youtube Channel](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww/)
