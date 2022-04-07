@@ -23,8 +23,6 @@ def generate_certificates():
       cv2.imwrite("generated-certificates/{}.jpg".format(name.strip()), certificate_template_image)
       print("Processing {} / {}".format(index + 1,len(list_of_names)))
       
-
-
 def main():
    delete_old_data()
    cleanup_data()
