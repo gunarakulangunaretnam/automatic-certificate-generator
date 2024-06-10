@@ -1,16 +1,14 @@
-# AUTOMATIC CERTIFICATE GENERATOR
+# Automatic Certificate Generator
 
 ## Introduction
 
 ![Image](github-readme-contents/banner.png)
 
-**Video Tutorial:** https://www.youtube.com/watch?v=Xf8dhNl4d9c&t
+This simple Python prototype tackles the age-old productivity challenge of automating mundane tasks by generating certificates automatically from a given list of names. By eliminating the need for manual entry of certificate holder names, this script streamlines the process and frees up valuable time for more meaningful work.
 
-In life, automating the boring stuff is the main key to be a productive person. This simple python prototype generates certificates based on the given name list automatically.
+At its core, this script leverages Python and OpenCV to achieve its objective. The logic is straightforward: it utilizes a certificate template and dynamically populates it with names from the provided list, generating multiple certificates in a fraction of the time it would take to do so manually.
 
-The problem that, this simple python script tries to solve is re-entering the name of the certificate holders.
-
-This script uses Python & OpenCV as its main component to perform this task. The logic is pretty simple to understand, It takes a template of a certificate and generates more certificates based on the given name list.
+With its intuitive design and efficient execution, this script exemplifies the power of automation in enhancing productivity and efficiency in various domains. Whether used in educational institutions, corporate settings, or organizational events, this prototype offers a simple yet effective solution to a common productivity bottleneck.
 
 ## Technology and Framework
 
@@ -69,7 +67,7 @@ python run.py
 
 ```
 
-# CONTACT
+# Contact
 
 ### Website: 
 
